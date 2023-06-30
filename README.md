@@ -38,3 +38,10 @@ Look at the example output below very closely and make sure the spacing of the o
 ![2023-06-29 (1)](https://github.com/danham78/budget_app/assets/131801769/bfa56a2f-f356-4db1-bd23-53c303e0c734)
 
 
+# Installation
+- download the file
+- ensure you have python3 installed
+- run in the command line with the command python budget.py
+
+# License 
+budget_app is available under the MIT, GNU license. 
